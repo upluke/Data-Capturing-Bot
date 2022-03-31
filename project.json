@@ -1,7 +1,7 @@
 {
   "name": "Robot2_DataCapturing",
   "description": "Capture data from excel spreadsheet",
-  "main": "Web Data Capturing.xaml",
+  "main": "Desktop Data Capturing.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
@@ -45,14 +45,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "5e647aa3-35a2-416d-a81f-753ee2681a8c",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Web Data Capturing.xaml",
-      "uniqueId": "2b31a2e7-93d7-47d8-abae-a8e4698603b8",
+      "filePath": "Desktop Data Capturing.xaml",
+      "uniqueId": "e3db87ab-041f-47fd-9d99-ee6ab78d8b9b",
       "input": [],
       "output": []
     }

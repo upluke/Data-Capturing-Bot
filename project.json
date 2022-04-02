@@ -1,7 +1,7 @@
 {
   "name": "Robot2_DataCapturing",
   "description": "Capture data from excel spreadsheet",
-  "main": "Desktop Data Capturing.xaml",
+  "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.11.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
@@ -47,6 +47,12 @@
     {
       "filePath": "Desktop Data Capturing.xaml",
       "uniqueId": "e3db87ab-041f-47fd-9d99-ee6ab78d8b9b",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "a142e00d-640d-4118-8180-cf928dc4be24",
       "input": [],
       "output": []
     }
